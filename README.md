@@ -14,3 +14,4 @@ This is a simple Python tool that checks for Malicious domains and enumerates th
 For now this tool can be only used in Linux, In few days I will post for using it in windows
 
 Thanks for using the Tool :)
+
